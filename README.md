@@ -8,7 +8,7 @@ The system scans repository files, processes source code metrics, and provides q
 
 # 🚀 Project Preview
 
-![Technical Debt Analyzer UI](technical-debt-analyzer-ui.png)
+![Technical Debt Analyzer UI](technical-debt-analyzer-ui1.png)
 
 ---
 
